@@ -1,0 +1,56 @@
+
+.wrap{
+    height: 200px;
+}
+.input{
+    margin: 0 auto;
+    padding: 10px;
+    height: 100px;
+    background-color:rgba(192, 192, 192, 0.36);
+    border-radius: 10px;
+}
+.input button{
+    margin: 5px;
+    width: 150px;
+}
+.input input{
+    margin: 5px;
+}
+.lmp{
+    position: relative;
+    border-radius: 10px;
+    height: 150px;
+    margin: 15px;
+}
+.lmpwrap{
+    height: 100%;
+}
+.off>i{
+    color:orange;
+    font-weight: 200;
+}
+.off{
+    background-color:black;
+}
+.on {
+    background-color:#6eaf5c;
+}
+.fa-6{
+    position:absolute;
+    left:35%;
+    font-size: 9em
+}
+.bright{
+    text-shadow: 0 0 20px #ffedf2;
+    color: #fff;
+}
+
+.count{
+    position: absolute;
+    left:0;
+    top:0;
+    height: 50%;
+    width: 50%;
+    color:white;
+    font-size:60px;
+}
